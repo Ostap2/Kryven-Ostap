@@ -1,7 +1,7 @@
 export const links = {
   email: 'Ostapkryvenpm@gmail.com',
   linkedin: 'https://www.linkedin.com/in/ostap-kryven/',
-  telegram: 'https://t.me/@Dinnobo',
+  telegram: 'https://t.me/Dinnobo',
   github: 'https://github.com/Ostap2',
 }
 
