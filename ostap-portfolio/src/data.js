@@ -1,8 +1,8 @@
 export const links = {
   email: 'Ostapkryvenpm@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/YOUR_NAME',
-  telegram: 'https://t.me/YOUR_NICK',
-  github: 'https://github.com/YOUR_NICK',
+  linkedin: 'https://www.linkedin.com/in/ostap-kryven/',
+  telegram: 'https://t.me/@Dinnobo',
+  github: 'https://github.com/Ostap2',
 }
 
 export const content = {
